@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Fecha",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lODYETkWcEGuqkkwVLv5ig",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/lODYETkWcEGuqkkwVLv5ig",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "Created": "2025-01-08T23:00:41.9024456Z",
+  "Updated": "2025-01-08T23:00:41.9024456Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

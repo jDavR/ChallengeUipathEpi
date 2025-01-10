@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Número de Transacción …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hfdlvz8220mAf19c8ayA6A",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/hfdlvz8220mAf19c8ayA6A",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "Created": "2025-01-09T16:45:55.4266835Z",
+  "Updated": "2025-01-09T16:45:55.4266835Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Número de Comprobante",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "dNvGZ5pjFU2IDUnZEywM9g",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/dNvGZ5pjFU2IDUnZEywM9g",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "Created": "2025-01-09T14:28:36.3770763Z",
+  "Updated": "2025-01-09T14:28:36.3770763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

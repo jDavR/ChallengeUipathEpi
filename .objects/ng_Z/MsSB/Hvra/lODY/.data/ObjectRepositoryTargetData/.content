@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UB9ENt07-UiEYM5iM4IxqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="768, 475, 400, 40" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='fecha' tag='INPUT' type='date' class='' aaname='Fecha:' /&gt;" Guid="fbaf98c4-03b7-4bcb-babd-02d65d8e9036" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sistema de Carga de Facturas' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="768, 452, 400, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='factura-form' tag='LABEL' type='' class='' aaname='Fecha:' check:innerText='Fecha:' /&gt;" Guid="af3a6cd1-4f5d-4926-a352-04b0380ac694" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d960639cf56057f30026b7f02fbc1c94.png" xmlns="">0HQSLgpEgdE-liiNA3Yrhow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

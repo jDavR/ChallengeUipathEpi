@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Generar Transacción",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "3Odq5DytPUm0nA-6sFbKXA",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/3Odq5DytPUm0nA-6sFbKXA",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "Created": "2025-01-09T16:43:56.0957675Z",
+  "Updated": "2025-01-09T16:43:56.0957675Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

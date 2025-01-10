@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Sistema de Carga de Facturas",
+  "Type": "App",
+  "Id": "ng_Za6Nsn0-UB4G_TD416g",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/ng_Za6Nsn0-UB4G_TD416g",
+  "Created": "2025-01-08T21:33:23.1789941Z",
+  "Updated": "2025-01-08T21:33:23.1789941Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

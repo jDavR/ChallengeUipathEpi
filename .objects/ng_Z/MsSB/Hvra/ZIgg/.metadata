@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Monto",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZIggMHH_rE6uaYKSEVBKrg",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/ZIggMHH_rE6uaYKSEVBKrg",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "Created": "2025-01-09T14:28:52.2767199Z",
+  "Updated": "2025-01-09T14:28:52.2767199Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

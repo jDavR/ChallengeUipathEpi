@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dwoLD7ZcOkC06taBm9POSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="768, 626, 400, 37" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='' aaname='Contraseña:' /&gt;" Guid="23ef77a0-e0f0-4093-b046-6d76ec470c14" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sistema de Carga de Facturas' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="768, 603, 400, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Contraseña:' tag='LABEL' type='' class='' check:innerText='Contraseña:' /&gt;" Guid="a3a7a0b4-9883-401f-8553-d3c904c6ea9a" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d8c0d98af41bca351657c0a232687cd.png" xmlns="">0OfiFPsFxikq32WTfiPKtGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

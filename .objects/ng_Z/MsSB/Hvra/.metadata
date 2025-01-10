@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sistema de Carga de Facturas",
+  "Type": "Screen",
+  "Id": "HvraDLVN002PNevBHgG-0g",
+  "Reference": "WX6WW732hEC7aZFELZVaOQ/HvraDLVN002PNevBHgG-0g",
+  "ParentRef": "WX6WW732hEC7aZFELZVaOQ/MsSBL1AuS0-RH6SAweztmA",
+  "Created": "2025-01-08T21:33:23.234453Z",
+  "Updated": "2025-01-08T21:33:23.234453Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

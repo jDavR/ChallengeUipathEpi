@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WqvHQURAkkaWxJe5uXEfVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" DesignTimeRectangle="768, 719, 400, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='factura-form' tag='INPUT' type='submit' class='' aaname='Generar Transacción' check:text='Generar Transacción' /&gt;" Guid="16fea265-34cf-4360-8331-0f6eb27f4fb5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sistema de Carga de Facturas' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b9203c75880d582bef30dfb8a8a89481.png" xmlns="">0OVZiPE1BI0iBJdipXkWIkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
